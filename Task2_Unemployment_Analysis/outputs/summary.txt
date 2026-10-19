@@ -1,0 +1,6 @@
+Rows after cleaning: 740
+Regions represented: 28
+Mean unemployment rate (%): 11.79
+Median unemployment rate (%): 8.35
+Minimum unemployment rate (%): 0.00
+Maximum unemployment rate (%): 76.74
